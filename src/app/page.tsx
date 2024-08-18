@@ -10,6 +10,9 @@ export default function Home() {
     Hello World
   </h2>
 </div>
+<p className="mt-8 text-lg font-bold text-black">
+        Created by Aleeza
+      </p>
 </div> 
   )
 }
